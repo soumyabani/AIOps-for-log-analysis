@@ -1,4 +1,4 @@
-# 🔍 My AIOps Log Analysis System
+# 🔍 AIOps Log Analysis System
 
 A smart log anomaly detection tool I built to solve memory leak detection issues at work. Traditional monitoring kept missing critical problems hidden in INFO-level logs, so I developed this system that automatically learns suspicious patterns without manual rule definitions.
 
