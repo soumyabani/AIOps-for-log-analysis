@@ -1,0 +1,19 @@
+{
+    "log_file_path": "data/Hadoop_2k.log",
+    "contamination": 0.05,
+    "train_ratio": 0.7,
+    "zscore_threshold": 3.0,
+    "severity_boost": 1,
+    "max_features": 120,
+    "level_mapping": {
+        "DEBUG": 0,
+        "INFO": 1,
+        "WARN": 2,
+        "WARNING": 2,
+        "ERROR": 3,
+        "CRITICAL": 4,
+        "FATAL": 5
+    },
+    "time_window_minutes": 60,
+    "min_samples": 3
+}
